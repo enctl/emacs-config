@@ -1,0 +1,5 @@
+* TODO %^{Task}
+  SCHEDULED: %^T DEADLINE: %^t
+  :PROPERTIES:
+  :DATE: %^U
+  :END:

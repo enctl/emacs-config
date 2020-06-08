@@ -1,0 +1,13 @@
+* %^{PROJECT}
+:PROPERTIES:
+:START_DATE: %^U
+:CUSTOM_ID: %^{project_id}
+%^G
+:END:
+%^{AREA}p
+
+** Setup
+   - [ ] Tag the project using the contextual tags
+** Meetings
+** Resources
+** Actions

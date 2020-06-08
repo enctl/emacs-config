@@ -1,0 +1,6 @@
+* %^{meeting}U
+:PROPERTIES:
+:CUSTOM_ID: meeting_%^{project}_%^{series}_%^{index}
+:END:
+
+ %?

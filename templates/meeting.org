@@ -1,0 +1,8 @@
+* %^{Meeting}
+:PROPERTIES:
+:DATE: %^U
+:CUSTOM_ID: meeting_%^{project_id}_%^{meeting_series}
+:END:
+%^{CUSTOM_ID}p
+
+ %?
